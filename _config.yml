@@ -1,6 +1,6 @@
-name:          Code Guide by @mdo
+name:          Fast Web Media Coding Standards Guide
 description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguide.co
+url:           http://codeguide.fwm.cx
 
 markdown:      rdiscount
 permalink:     pretty
