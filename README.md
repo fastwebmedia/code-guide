@@ -12,7 +12,7 @@ Released under MIT by, and copyright 2014, @mdo. Modified for use internally for
 
 ### Thanks
 
-Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](http://github.com/styleguide).
+Initial Draft by [mdo](https://github.com/mdo/code-guide). Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](http://github.com/styleguide).
 
 ### Translations
 
