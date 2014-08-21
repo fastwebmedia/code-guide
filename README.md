@@ -8,7 +8,7 @@ Code Guide is a project for documenting standards for developing flexible, durab
 
 ### License
 
-Released under MIT by, and copyright 2014, @mdo.
+Released under MIT by, and copyright 2014, @mdo. Modified for use internally for employees of Fast Web Media Ltd.
 
 ### Thanks
 
